@@ -1,6 +1,7 @@
 #include <unistd.h>
- *main - Displaying sizeof data types.
- *Return: 0 on success
+/**
+ * main - Displaying sizeof data types.
+ * Return: 0 on success
  */
 int main(void)
 {
