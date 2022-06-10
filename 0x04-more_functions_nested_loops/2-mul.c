@@ -14,4 +14,4 @@ int mul(int a, int b)
 	pro = (a * b);
 	return (pro);
 }
-"wq
+
